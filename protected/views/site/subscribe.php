@@ -29,7 +29,7 @@
             </div>
             <div class="modal-footer">
                 <div class="col-md-12">
-                    <a href="https://github.com/"><i class="fa fa-github"></i> GitHub</a><br>
+                    <a href="https://github.com/Gl00mY-ZeiZ/tz1"><i class="fa fa-github"></i> GitHub</a><br>
                     <a href="/admin"><i class="fa fa-cog"></i> Просмотр записей</a>
                 </div>
             </div>
